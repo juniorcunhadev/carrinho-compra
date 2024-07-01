@@ -25,7 +25,7 @@ a fim de exemplificar todos os recursos disponíveis.
 
 
 - Caso não queira que retorno o objeto e sim uma determinada informação, como o valor final da venda, basta seguir o exemplo
-a seguir.
+a baixo.
 
 ```php
 PixPayment::generate($obCartsController->getSubtotal())->getAmountFinal();
