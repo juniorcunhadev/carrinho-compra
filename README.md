@@ -3,11 +3,16 @@
 ## Requisitos
 
 - PHP = 8.1
+- PHPUnit = 9.0
 
 ## Instalação
 
-1. Clone o repositório:
-2. Instale as dependências usando o Composer:
+1. Clone o repositório.
+2. Instale as dependências usando o Composer.
+
+```terminal
+composer install
+```
 
 ## Como Usar
 
